@@ -1,10 +1,34 @@
+:root{
+    --red:#f7c551
+}
 /*! -------------- 1- NAVBAR ---------------- */
 
 .navbar {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
+
+}
+.lav-link.active{
+    color: rgb(236, 102, 6) !important;
+
+}
+.nav-link{
+    transition: color 0.7s;
+}
+.nav-link:hover{
+    color: var(--red) !important ;
 }
 
 /*! ------------- 2- CAROUSEL --------------- */
+
+.carousel-item{
+    max-height: calc(100vh - 93px);
+}
+
+.carousel-caption .btn{
+    width: 7rem;
+    margin-bottom: 1rem;
+}
+
 
 /*! ------------ 3- ABOUT SECTION ----------- */
 
