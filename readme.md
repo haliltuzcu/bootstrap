@@ -1,3 +1,10 @@
-# Bootstrap Project
+# boottsrap
 
-https://bootstrapcw.netlify.app/
+![gif](./img/Animation.gif)
+
+# What I used in this project?
+
+- ## html
+- ## css
+  - ### boottsrap
+  - ### grid
